@@ -1,0 +1,9 @@
+{
+	"name": "origami-demo",
+	"dependencies": {
+		"o-hierarchical-nav":"^4.0.0",
+		"o-tabs":"^2.3.3",
+		"o-grid":"^4.2.0",
+		"o-typography":"^4.2.0"
+	}
+}
